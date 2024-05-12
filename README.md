@@ -34,7 +34,7 @@ with open("C:/Users/admin/OneDrive/Documents/story.txt", "r") as f1:
         num += len(word)
 print("The number of words in the file is", num)
 ```
-### OUTPUT:
+## OUTPUT:
 
 ![alt text](image.png)
 
