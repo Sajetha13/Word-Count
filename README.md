@@ -20,10 +20,13 @@ After the loop, print the value of num along with a message indicating the numbe
 
 ## PROGRAM:
 ```
+/*
 Program to find the word count from a text:
 Register No: 212223100049
 Developed By: S.Sajetha
-
+*/
+```
+```
 num = 0
 with open("C:/Users/admin/OneDrive/Documents/story.txt", "r") as f1:
     for i in f1:
